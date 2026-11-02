@@ -1,0 +1,401 @@
+﻿product_id,product_name,category,brand,cost_price
+P0001,Olahraga Item 001,Olahraga,Brand-07,41790
+P0002,Rumah Tangga Item 002,Rumah Tangga,Brand-07,81544
+P0003,Rumah Tangga Item 003,Rumah Tangga,Brand-03,148161
+P0004,Elektronik Item 004,Elektronik,Brand-06,1035460
+P0005,Kecantikan Item 005,Kecantikan,Brand-16,151097
+P0006,Elektronik Item 006,Elektronik,Brand-04,101343
+P0007,Olahraga Item 007,Olahraga,Brand-21,40256
+P0008,Olahraga Item 008,Olahraga,Brand-02,28317
+P0009,Kecantikan Item 009,Kecantikan,Brand-10,57230
+P0010,Kecantikan Item 010,Kecantikan,Brand-20,46801
+P0011,Olahraga Item 011,Olahraga,Brand-08,235166
+P0012,Buku Item 012,Buku,Brand-13,24694
+P0013,Fashion Item 013,Fashion,Brand-01,227257
+P0014,Kecantikan Item 014,Kecantikan,Brand-20,30662
+P0015,Kecantikan Item 015,Kecantikan,Brand-09,21099
+P0016,Olahraga Item 016,Olahraga,Brand-19,606986
+P0017,Buku Item 017,Buku,Brand-14,22623
+P0018,Elektronik Item 018,Elektronik,Brand-21,77370
+P0019,Olahraga Item 019,Olahraga,Brand-22,681556
+P0020,Rumah Tangga Item 020,Rumah Tangga,Brand-17,48715
+P0021,Elektronik Item 021,Elektronik,Brand-23,169762
+P0022,Buku Item 022,Buku,Brand-07,33585
+P0023,Olahraga Item 023,Olahraga,Brand-11,163567
+P0024,Buku Item 024,Buku,Brand-14,21441
+P0025,Fashion Item 025,Fashion,Brand-23,27892
+P0026,Olahraga Item 026,Olahraga,Brand-22,449953
+P0027,Fashion Item 027,Fashion,Brand-01,218613
+P0028,Elektronik Item 028,Elektronik,Brand-12,119769
+P0029,Fashion Item 029,Fashion,Brand-13,175168
+P0030,Olahraga Item 030,Olahraga,Brand-13,432201
+P0031,Kecantikan Item 031,Kecantikan,Brand-19,36617
+P0032,Fashion Item 032,Fashion,Brand-12,29048
+P0033,Olahraga Item 033,Olahraga,Brand-23,44376
+P0034,Kecantikan Item 034,Kecantikan,Brand-03,45181
+P0035,Rumah Tangga Item 035,Rumah Tangga,Brand-14,139428
+P0036,Buku Item 036,Buku,Brand-15,132229
+P0037,Olahraga Item 037,Olahraga,Brand-05,248861
+P0038,Olahraga Item 038,Olahraga,Brand-18,326512
+P0039,Buku Item 039,Buku,Brand-18,51335
+P0040,Buku Item 040,Buku,Brand-02,106709
+P0041,Buku Item 041,Buku,Brand-21,46386
+P0042,Olahraga Item 042,Olahraga,Brand-09,26333
+P0043,Buku Item 043,Buku,Brand-20,104026
+P0044,Olahraga Item 044,Olahraga,Brand-05,35960
+P0045,Rumah Tangga Item 045,Rumah Tangga,Brand-01,761466
+P0046,Rumah Tangga Item 046,Rumah Tangga,Brand-12,51523
+P0047,Olahraga Item 047,Olahraga,Brand-23,57469
+P0048,Buku Item 048,Buku,Brand-03,85767
+P0049,Rumah Tangga Item 049,Rumah Tangga,Brand-02,153016
+P0050,Olahraga Item 050,Olahraga,Brand-12,26127
+P0051,Elektronik Item 051,Elektronik,Brand-01,1417390
+P0052,Olahraga Item 052,Olahraga,Brand-07,334048
+P0053,Buku Item 053,Buku,Brand-02,40807
+P0054,Elektronik Item 054,Elektronik,Brand-10,417700
+P0055,Elektronik Item 055,Elektronik,Brand-04,71922
+P0056,Buku Item 056,Buku,Brand-23,18874
+P0057,Olahraga Item 057,Olahraga,Brand-10,606101
+P0058,Kecantikan Item 058,Kecantikan,Brand-07,30848
+P0059,Buku Item 059,Buku,Brand-22,51466
+P0060,Rumah Tangga Item 060,Rumah Tangga,Brand-01,496887
+P0061,Fashion Item 061,Fashion,Brand-13,34320
+P0062,Elektronik Item 062,Elektronik,Brand-19,1496092
+P0063,Kecantikan Item 063,Kecantikan,Brand-18,73448
+P0064,Fashion Item 064,Fashion,Brand-06,182716
+P0065,Kecantikan Item 065,Kecantikan,Brand-02,174668
+P0066,Rumah Tangga Item 066,Rumah Tangga,Brand-02,745577
+P0067,Buku Item 067,Buku,Brand-20,15664
+P0068,Fashion Item 068,Fashion,Brand-21,203505
+P0069,Olahraga Item 069,Olahraga,Brand-02,214440
+P0070,Buku Item 070,Buku,Brand-04,27439
+P0071,Olahraga Item 071,Olahraga,Brand-03,40400
+P0072,Olahraga Item 072,Olahraga,Brand-06,50128
+P0073,Elektronik Item 073,Elektronik,Brand-14,595761
+P0074,Rumah Tangga Item 074,Rumah Tangga,Brand-11,34435
+P0075,Rumah Tangga Item 075,Rumah Tangga,Brand-14,26664
+P0076,Elektronik Item 076,Elektronik,Brand-19,1385519
+P0077,Rumah Tangga Item 077,Rumah Tangga,Brand-12,696909
+P0078,Olahraga Item 078,Olahraga,Brand-06,644777
+P0079,Buku Item 079,Buku,Brand-10,16905
+P0080,Elektronik Item 080,Elektronik,Brand-11,119568
+P0081,Elektronik Item 081,Elektronik,Brand-15,278204
+P0082,Kecantikan Item 082,Kecantikan,Brand-16,119987
+P0083,Elektronik Item 083,Elektronik,Brand-05,55859
+P0084,Elektronik Item 084,Elektronik,Brand-22,194217
+P0085,Kecantikan Item 085,Kecantikan,Brand-12,34055
+P0086,Rumah Tangga Item 086,Rumah Tangga,Brand-24,176090
+P0087,Kecantikan Item 087,Kecantikan,Brand-21,97211
+P0088,Kecantikan Item 088,Kecantikan,Brand-08,59652
+P0089,Buku Item 089,Buku,Brand-10,155356
+P0090,Fashion Item 090,Fashion,Brand-02,22381
+P0091,Buku Item 091,Buku,Brand-16,11653
+P0092,Fashion Item 092,Fashion,Brand-16,97308
+P0093,Rumah Tangga Item 093,Rumah Tangga,Brand-13,818721
+P0094,Rumah Tangga Item 094,Rumah Tangga,Brand-20,1152457
+P0095,Fashion Item 095,Fashion,Brand-10,27750
+P0096,Kecantikan Item 096,Kecantikan,Brand-14,89741
+P0097,Elektronik Item 097,Elektronik,Brand-17,380229
+P0098,Elektronik Item 098,Elektronik,Brand-11,143727
+P0099,Rumah Tangga Item 099,Rumah Tangga,Brand-22,171777
+P0100,Rumah Tangga Item 100,Rumah Tangga,Brand-17,32835
+P0101,Kecantikan Item 101,Kecantikan,Brand-05,48597
+P0102,Rumah Tangga Item 102,Rumah Tangga,Brand-17,168798
+P0103,Fashion Item 103,Fashion,Brand-06,241133
+P0104,Buku Item 104,Buku,Brand-18,84322
+P0105,Buku Item 105,Buku,Brand-22,32402
+P0106,Rumah Tangga Item 106,Rumah Tangga,Brand-24,154840
+P0107,Kecantikan Item 107,Kecantikan,Brand-08,307694
+P0108,Elektronik Item 108,Elektronik,Brand-17,2043926
+P0109,Elektronik Item 109,Elektronik,Brand-17,98468
+P0110,Fashion Item 110,Fashion,Brand-21,30566
+P0111,Olahraga Item 111,Olahraga,Brand-09,113629
+P0112,Buku Item 112,Buku,Brand-04,21726
+P0113,Buku Item 113,Buku,Brand-18,11370
+P0114,Rumah Tangga Item 114,Rumah Tangga,Brand-05,10672
+P0115,Buku Item 115,Buku,Brand-11,15960
+P0116,Elektronik Item 116,Elektronik,Brand-21,1575873
+P0117,Fashion Item 117,Fashion,Brand-04,23488
+P0118,Olahraga Item 118,Olahraga,Brand-19,98519
+P0119,Fashion Item 119,Fashion,Brand-13,49712
+P0120,Kecantikan Item 120,Kecantikan,Brand-11,193365
+P0121,Olahraga Item 121,Olahraga,Brand-06,104083
+P0122,Kecantikan Item 122,Kecantikan,Brand-11,225702
+P0123,Buku Item 123,Buku,Brand-17,14156
+P0124,Fashion Item 124,Fashion,Brand-08,90902
+P0125,Rumah Tangga Item 125,Rumah Tangga,Brand-02,487121
+P0126,Elektronik Item 126,Elektronik,Brand-16,2913970
+P0127,Kecantikan Item 127,Kecantikan,Brand-15,113877
+P0128,Olahraga Item 128,Olahraga,Brand-01,307328
+P0129,Olahraga Item 129,Olahraga,Brand-10,206073
+P0130,Fashion Item 130,Fashion,Brand-16,175398
+P0131,Fashion Item 131,Fashion,Brand-23,154677
+P0132,Elektronik Item 132,Elektronik,Brand-19,1214600
+P0133,Elektronik Item 133,Elektronik,Brand-11,838285
+P0134,Rumah Tangga Item 134,Rumah Tangga,Brand-03,18459
+P0135,Buku Item 135,Buku,Brand-19,53856
+P0136,Kecantikan Item 136,Kecantikan,Brand-15,20384
+P0137,Fashion Item 137,Fashion,Brand-07,50950
+P0138,Buku Item 138,Buku,Brand-13,15199
+P0139,Kecantikan Item 139,Kecantikan,Brand-16,119944
+P0140,Rumah Tangga Item 140,Rumah Tangga,Brand-17,14812
+P0141,Olahraga Item 141,Olahraga,Brand-14,48289
+P0142,Buku Item 142,Buku,Brand-09,15200
+P0143,Kecantikan Item 143,Kecantikan,Brand-03,313496
+P0144,Fashion Item 144,Fashion,Brand-17,208167
+P0145,Kecantikan Item 145,Kecantikan,Brand-13,63628
+P0146,Olahraga Item 146,Olahraga,Brand-08,69000
+P0147,Elektronik Item 147,Elektronik,Brand-05,82685
+P0148,Rumah Tangga Item 148,Rumah Tangga,Brand-01,632676
+P0149,Rumah Tangga Item 149,Rumah Tangga,Brand-03,244604
+P0150,Elektronik Item 150,Elektronik,Brand-09,318202
+P0151,Buku Item 151,Buku,Brand-23,49889
+P0152,Fashion Item 152,Fashion,Brand-14,202746
+P0153,Kecantikan Item 153,Kecantikan,Brand-09,62869
+P0154,Kecantikan Item 154,Kecantikan,Brand-10,203746
+P0155,Buku Item 155,Buku,Brand-21,94628
+P0156,Elektronik Item 156,Elektronik,Brand-06,85168
+P0157,Elektronik Item 157,Elektronik,Brand-15,247554
+P0158,Elektronik Item 158,Elektronik,Brand-11,281071
+P0159,Fashion Item 159,Fashion,Brand-14,50974
+P0160,Rumah Tangga Item 160,Rumah Tangga,Brand-16,42790
+P0161,Buku Item 161,Buku,Brand-03,37934
+P0162,Rumah Tangga Item 162,Rumah Tangga,Brand-05,321162
+P0163,Fashion Item 163,Fashion,Brand-06,119599
+P0164,Buku Item 164,Buku,Brand-17,46882
+P0165,Kecantikan Item 165,Kecantikan,Brand-16,61999
+P0166,Elektronik Item 166,Elektronik,Brand-21,537680
+P0167,Olahraga Item 167,Olahraga,Brand-15,69054
+P0168,Rumah Tangga Item 168,Rumah Tangga,Brand-02,494797
+P0169,Olahraga Item 169,Olahraga,Brand-09,144751
+P0170,Elektronik Item 170,Elektronik,Brand-09,466913
+P0171,Kecantikan Item 171,Kecantikan,Brand-15,115041
+P0172,Kecantikan Item 172,Kecantikan,Brand-01,213520
+P0173,Buku Item 173,Buku,Brand-18,29655
+P0174,Kecantikan Item 174,Kecantikan,Brand-18,114727
+P0175,Rumah Tangga Item 175,Rumah Tangga,Brand-18,354767
+P0176,Elektronik Item 176,Elektronik,Brand-18,406242
+P0177,Elektronik Item 177,Elektronik,Brand-18,720149
+P0178,Elektronik Item 178,Elektronik,Brand-09,222674
+P0179,Rumah Tangga Item 179,Rumah Tangga,Brand-09,300021
+P0180,Buku Item 180,Buku,Brand-16,152875
+P0181,Elektronik Item 181,Elektronik,Brand-20,119238
+P0182,Buku Item 182,Buku,Brand-21,58185
+P0183,Buku Item 183,Buku,Brand-03,24794
+P0184,Fashion Item 184,Fashion,Brand-10,50321
+P0185,Elektronik Item 185,Elektronik,Brand-10,264680
+P0186,Olahraga Item 186,Olahraga,Brand-20,64705
+P0187,Rumah Tangga Item 187,Rumah Tangga,Brand-09,244349
+P0188,Elektronik Item 188,Elektronik,Brand-22,312868
+P0189,Olahraga Item 189,Olahraga,Brand-14,404407
+P0190,Elektronik Item 190,Elektronik,Brand-07,171385
+P0191,Fashion Item 191,Fashion,Brand-07,69768
+P0192,Buku Item 192,Buku,Brand-14,136888
+P0193,Kecantikan Item 193,Kecantikan,Brand-24,32651
+P0194,Kecantikan Item 194,Kecantikan,Brand-19,102344
+P0195,Fashion Item 195,Fashion,Brand-16,192119
+P0196,Kecantikan Item 196,Kecantikan,Brand-15,255018
+P0197,Olahraga Item 197,Olahraga,Brand-08,48529
+P0198,Buku Item 198,Buku,Brand-05,95729
+P0199,Buku Item 199,Buku,Brand-18,17441
+P0200,Fashion Item 200,Fashion,Brand-22,57540
+P0201,Buku Item 201,Buku,Brand-17,66569
+P0202,Buku Item 202,Buku,Brand-09,113386
+P0203,Olahraga Item 203,Olahraga,Brand-23,74398
+P0204,Fashion Item 204,Fashion,Brand-24,176356
+P0205,Elektronik Item 205,Elektronik,Brand-13,278165
+P0206,Buku Item 206,Buku,Brand-05,167205
+P0207,Kecantikan Item 207,Kecantikan,Brand-13,166953
+P0208,Rumah Tangga Item 208,Rumah Tangga,Brand-05,40365
+P0209,Kecantikan Item 209,Kecantikan,Brand-06,9481
+P0210,Rumah Tangga Item 210,Rumah Tangga,Brand-15,22357
+P0211,Kecantikan Item 211,Kecantikan,Brand-09,62141
+P0212,Olahraga Item 212,Olahraga,Brand-08,93795
+P0213,Olahraga Item 213,Olahraga,Brand-04,160707
+P0214,Kecantikan Item 214,Kecantikan,Brand-03,51697
+P0215,Kecantikan Item 215,Kecantikan,Brand-09,116875
+P0216,Fashion Item 216,Fashion,Brand-24,101139
+P0217,Elektronik Item 217,Elektronik,Brand-14,3253324
+P0218,Kecantikan Item 218,Kecantikan,Brand-14,111598
+P0219,Olahraga Item 219,Olahraga,Brand-22,54532
+P0220,Kecantikan Item 220,Kecantikan,Brand-19,140372
+P0221,Buku Item 221,Buku,Brand-06,23720
+P0222,Kecantikan Item 222,Kecantikan,Brand-03,49237
+P0223,Rumah Tangga Item 223,Rumah Tangga,Brand-05,71812
+P0224,Fashion Item 224,Fashion,Brand-14,76542
+P0225,Buku Item 225,Buku,Brand-06,30210
+P0226,Kecantikan Item 226,Kecantikan,Brand-09,27246
+P0227,Fashion Item 227,Fashion,Brand-03,156075
+P0228,Buku Item 228,Buku,Brand-07,30046
+P0229,Elektronik Item 229,Elektronik,Brand-02,1699673
+P0230,Kecantikan Item 230,Kecantikan,Brand-06,81661
+P0231,Fashion Item 231,Fashion,Brand-14,42363
+P0232,Kecantikan Item 232,Kecantikan,Brand-20,37356
+P0233,Elektronik Item 233,Elektronik,Brand-06,339308
+P0234,Kecantikan Item 234,Kecantikan,Brand-03,153284
+P0235,Elektronik Item 235,Elektronik,Brand-01,123990
+P0236,Buku Item 236,Buku,Brand-05,146713
+P0237,Rumah Tangga Item 237,Rumah Tangga,Brand-13,428553
+P0238,Kecantikan Item 238,Kecantikan,Brand-04,32791
+P0239,Kecantikan Item 239,Kecantikan,Brand-18,171759
+P0240,Olahraga Item 240,Olahraga,Brand-14,198059
+P0241,Olahraga Item 241,Olahraga,Brand-21,43534
+P0242,Fashion Item 242,Fashion,Brand-16,28132
+P0243,Kecantikan Item 243,Kecantikan,Brand-12,11772
+P0244,Fashion Item 244,Fashion,Brand-14,67775
+P0245,Kecantikan Item 245,Kecantikan,Brand-06,176008
+P0246,Kecantikan Item 246,Kecantikan,Brand-02,104731
+P0247,Elektronik Item 247,Elektronik,Brand-23,91321
+P0248,Elektronik Item 248,Elektronik,Brand-16,2455682
+P0249,Fashion Item 249,Fashion,Brand-05,212929
+P0250,Olahraga Item 250,Olahraga,Brand-03,178647
+P0251,Rumah Tangga Item 251,Rumah Tangga,Brand-11,220039
+P0252,Elektronik Item 252,Elektronik,Brand-12,106348
+P0253,Fashion Item 253,Fashion,Brand-13,115676
+P0254,Rumah Tangga Item 254,Rumah Tangga,Brand-23,15301
+P0255,Buku Item 255,Buku,Brand-24,22031
+P0256,Rumah Tangga Item 256,Rumah Tangga,Brand-15,24740
+P0257,Fashion Item 257,Fashion,Brand-20,66863
+P0258,Rumah Tangga Item 258,Rumah Tangga,Brand-12,667461
+P0259,Olahraga Item 259,Olahraga,Brand-23,184410
+P0260,Olahraga Item 260,Olahraga,Brand-08,23286
+P0261,Rumah Tangga Item 261,Rumah Tangga,Brand-07,35731
+P0262,Fashion Item 262,Fashion,Brand-06,44813
+P0263,Fashion Item 263,Fashion,Brand-04,127607
+P0264,Kecantikan Item 264,Kecantikan,Brand-03,43300
+P0265,Fashion Item 265,Fashion,Brand-05,70072
+P0266,Buku Item 266,Buku,Brand-12,27991
+P0267,Buku Item 267,Buku,Brand-07,36853
+P0268,Olahraga Item 268,Olahraga,Brand-09,249230
+P0269,Olahraga Item 269,Olahraga,Brand-23,102561
+P0270,Fashion Item 270,Fashion,Brand-04,26933
+P0271,Fashion Item 271,Fashion,Brand-11,29076
+P0272,Buku Item 272,Buku,Brand-08,14591
+P0273,Fashion Item 273,Fashion,Brand-06,77390
+P0274,Buku Item 274,Buku,Brand-02,91000
+P0275,Elektronik Item 275,Elektronik,Brand-05,2826234
+P0276,Elektronik Item 276,Elektronik,Brand-01,370893
+P0277,Fashion Item 277,Fashion,Brand-09,253394
+P0278,Kecantikan Item 278,Kecantikan,Brand-02,80998
+P0279,Buku Item 279,Buku,Brand-19,95927
+P0280,Olahraga Item 280,Olahraga,Brand-01,82219
+P0281,Olahraga Item 281,Olahraga,Brand-21,43738
+P0282,Buku Item 282,Buku,Brand-14,43992
+P0283,Kecantikan Item 283,Kecantikan,Brand-03,146122
+P0284,Kecantikan Item 284,Kecantikan,Brand-04,66351
+P0285,Kecantikan Item 285,Kecantikan,Brand-16,57868
+P0286,Fashion Item 286,Fashion,Brand-22,78832
+P0287,Fashion Item 287,Fashion,Brand-06,189040
+P0288,Buku Item 288,Buku,Brand-16,25600
+P0289,Kecantikan Item 289,Kecantikan,Brand-08,33841
+P0290,Olahraga Item 290,Olahraga,Brand-10,121088
+P0291,Buku Item 291,Buku,Brand-24,21467
+P0292,Elektronik Item 292,Elektronik,Brand-10,1122250
+P0293,Buku Item 293,Buku,Brand-24,16005
+P0294,Olahraga Item 294,Olahraga,Brand-03,67452
+P0295,Fashion Item 295,Fashion,Brand-19,82185
+P0296,Fashion Item 296,Fashion,Brand-12,122390
+P0297,Elektronik Item 297,Elektronik,Brand-13,1445248
+P0298,Buku Item 298,Buku,Brand-02,30756
+P0299,Buku Item 299,Buku,Brand-11,20384
+P0300,Fashion Item 300,Fashion,Brand-12,60956
+P0301,Olahraga Item 301,Olahraga,Brand-21,517972
+P0302,Kecantikan Item 302,Kecantikan,Brand-16,12623
+P0303,Rumah Tangga Item 303,Rumah Tangga,Brand-19,77967
+P0304,Kecantikan Item 304,Kecantikan,Brand-11,101482
+P0305,Elektronik Item 305,Elektronik,Brand-05,481176
+P0306,Rumah Tangga Item 306,Rumah Tangga,Brand-06,614664
+P0307,Kecantikan Item 307,Kecantikan,Brand-13,10465
+P0308,Fashion Item 308,Fashion,Brand-13,165886
+P0309,Elektronik Item 309,Elektronik,Brand-13,134956
+P0310,Rumah Tangga Item 310,Rumah Tangga,Brand-12,62218
+P0311,Rumah Tangga Item 311,Rumah Tangga,Brand-20,86522
+P0312,Rumah Tangga Item 312,Rumah Tangga,Brand-03,557420
+P0313,Rumah Tangga Item 313,Rumah Tangga,Brand-01,431804
+P0314,Fashion Item 314,Fashion,Brand-19,232937
+P0315,Kecantikan Item 315,Kecantikan,Brand-03,69172
+P0316,Elektronik Item 316,Elektronik,Brand-23,68155
+P0317,Rumah Tangga Item 317,Rumah Tangga,Brand-04,98053
+P0318,Kecantikan Item 318,Kecantikan,Brand-05,12128
+P0319,Fashion Item 319,Fashion,Brand-14,110266
+P0320,Elektronik Item 320,Elektronik,Brand-12,93539
+P0321,Kecantikan Item 321,Kecantikan,Brand-17,233317
+P0322,Olahraga Item 322,Olahraga,Brand-20,673873
+P0323,Olahraga Item 323,Olahraga,Brand-07,432530
+P0324,Elektronik Item 324,Elektronik,Brand-19,1750393
+P0325,Kecantikan Item 325,Kecantikan,Brand-13,255952
+P0326,Rumah Tangga Item 326,Rumah Tangga,Brand-05,38137
+P0327,Buku Item 327,Buku,Brand-03,23591
+P0328,Buku Item 328,Buku,Brand-11,23315
+P0329,Fashion Item 329,Fashion,Brand-09,20339
+P0330,Rumah Tangga Item 330,Rumah Tangga,Brand-03,424054
+P0331,Olahraga Item 331,Olahraga,Brand-07,48645
+P0332,Rumah Tangga Item 332,Rumah Tangga,Brand-13,190327
+P0333,Kecantikan Item 333,Kecantikan,Brand-21,94182
+P0334,Rumah Tangga Item 334,Rumah Tangga,Brand-06,889441
+P0335,Olahraga Item 335,Olahraga,Brand-22,109211
+P0336,Kecantikan Item 336,Kecantikan,Brand-08,92582
+P0337,Rumah Tangga Item 337,Rumah Tangga,Brand-14,173169
+P0338,Rumah Tangga Item 338,Rumah Tangga,Brand-03,12423
+P0339,Olahraga Item 339,Olahraga,Brand-07,72895
+P0340,Fashion Item 340,Fashion,Brand-13,29536
+P0341,Buku Item 341,Buku,Brand-16,25061
+P0342,Rumah Tangga Item 342,Rumah Tangga,Brand-15,171857
+P0343,Olahraga Item 343,Olahraga,Brand-23,147845
+P0344,Rumah Tangga Item 344,Rumah Tangga,Brand-17,75332
+P0345,Kecantikan Item 345,Kecantikan,Brand-19,10157
+P0346,Olahraga Item 346,Olahraga,Brand-16,24738
+P0347,Elektronik Item 347,Elektronik,Brand-05,289799
+P0348,Olahraga Item 348,Olahraga,Brand-20,146538
+P0349,Rumah Tangga Item 349,Rumah Tangga,Brand-13,31663
+P0350,Elektronik Item 350,Elektronik,Brand-17,310774
+P0351,Elektronik Item 351,Elektronik,Brand-15,375250
+P0352,Buku Item 352,Buku,Brand-06,108059
+P0353,Kecantikan Item 353,Kecantikan,Brand-01,19212
+P0354,Kecantikan Item 354,Kecantikan,Brand-11,44180
+P0355,Elektronik Item 355,Elektronik,Brand-05,2014875
+P0356,Elektronik Item 356,Elektronik,Brand-04,420543
+P0357,Buku Item 357,Buku,Brand-02,47668
+P0358,Fashion Item 358,Fashion,Brand-24,163155
+P0359,Rumah Tangga Item 359,Rumah Tangga,Brand-19,27173
+P0360,Elektronik Item 360,Elektronik,Brand-07,412256
+P0361,Kecantikan Item 361,Kecantikan,Brand-23,18092
+P0362,Buku Item 362,Buku,Brand-08,97151
+P0363,Kecantikan Item 363,Kecantikan,Brand-09,184024
+P0364,Elektronik Item 364,Elektronik,Brand-02,87713
+P0365,Elektronik Item 365,Elektronik,Brand-03,68135
+P0366,Olahraga Item 366,Olahraga,Brand-19,26217
+P0367,Elektronik Item 367,Elektronik,Brand-20,64383
+P0368,Kecantikan Item 368,Kecantikan,Brand-23,138162
+P0369,Olahraga Item 369,Olahraga,Brand-11,635088
+P0370,Rumah Tangga Item 370,Rumah Tangga,Brand-16,32578
+P0371,Fashion Item 371,Fashion,Brand-15,34509
+P0372,Fashion Item 372,Fashion,Brand-03,79654
+P0373,Rumah Tangga Item 373,Rumah Tangga,Brand-21,577608
+P0374,Buku Item 374,Buku,Brand-01,33640
+P0375,Rumah Tangga Item 375,Rumah Tangga,Brand-09,325960
+P0376,Olahraga Item 376,Olahraga,Brand-08,289278
+P0377,Fashion Item 377,Fashion,Brand-10,226031
+P0378,Kecantikan Item 378,Kecantikan,Brand-11,16198
+P0379,Rumah Tangga Item 379,Rumah Tangga,Brand-12,30824
+P0380,Buku Item 380,Buku,Brand-18,66544
+P0381,Olahraga Item 381,Olahraga,Brand-15,440598
+P0382,Kecantikan Item 382,Kecantikan,Brand-07,31656
+P0383,Fashion Item 383,Fashion,Brand-02,190180
+P0384,Kecantikan Item 384,Kecantikan,Brand-16,14613
+P0385,Rumah Tangga Item 385,Rumah Tangga,Brand-17,20629
+P0386,Elektronik Item 386,Elektronik,Brand-24,68770
+P0387,Olahraga Item 387,Olahraga,Brand-17,63795
+P0388,Elektronik Item 388,Elektronik,Brand-06,416757
+P0389,Olahraga Item 389,Olahraga,Brand-16,37533
+P0390,Rumah Tangga Item 390,Rumah Tangga,Brand-01,31576
+P0391,Buku Item 391,Buku,Brand-07,52949
+P0392,Kecantikan Item 392,Kecantikan,Brand-19,20419
+P0393,Buku Item 393,Buku,Brand-17,13822
+P0394,Buku Item 394,Buku,Brand-06,81802
+P0395,Olahraga Item 395,Olahraga,Brand-08,502012
+P0396,Rumah Tangga Item 396,Rumah Tangga,Brand-03,30352
+P0397,Kecantikan Item 397,Kecantikan,Brand-20,25243
+P0398,Rumah Tangga Item 398,Rumah Tangga,Brand-19,69038
+P0399,Rumah Tangga Item 399,Rumah Tangga,Brand-24,179458
+P0400,Rumah Tangga Item 400,Rumah Tangga,Brand-17,30175
